@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OG1536</title>
+    <link>https://67444.github.io/</link>
+    <description>Recent content on OG1536</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-au</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 03 Jul 2022 18:12:16 +1000</lastBuildDate><atom:link href="https://67444.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://67444.github.io/about-hugo/</link>
+      <pubDate>Sun, 03 Jul 2022 18:26:45 +1000</pubDate>
+      
+      <guid>https://67444.github.io/about-hugo/</guid>
+      <description>about this site I made this website as a place to store links and information about what I&amp;rsquo;m working on at the moment. It is intended to supplant the existing 67444.github.io / gh.ochinthya.tech page. </description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://67444.github.io/posts/welcome/</link>
+      <pubDate>Sun, 03 Jul 2022 18:12:16 +1000</pubDate>
+      
+      <guid>https://67444.github.io/posts/welcome/</guid>
+      <description>Hey! Welcome to my website. I don&amp;rsquo;t think I&amp;rsquo;ll end up posting much on here, but I&amp;rsquo;ll make sure to post when I finish any project. Thanks for visiting!</description>
+    </item>
+    
+  </channel>
+</rss>
